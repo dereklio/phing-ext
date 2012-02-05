@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<project name="PhingExt" description="Phing Extensions by Deryck Lio" default="help">
-	<target name="help">
-		<echo msg="Sorry, no help message at the moment"/>
-	</target>
-</project>
